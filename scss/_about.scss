@@ -38,8 +38,8 @@
                 font-family: $font2;
                 color: #252219;
                 font-size: 20px;
-                margin-left: 6px;
-                display: inline-block;
+  margin-left: 6px;
+  display: block;
                 @media #{$mobile_device} {
                     margin-left: 0;
                 }
