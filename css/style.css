@@ -6158,3 +6158,12 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+.brand-name {
+  display: inline-block;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 1.2;
+  white-space: nowrap;
+}
