@@ -1327,12 +1327,12 @@ h3 {
   color: #252219;
   font-size: 20px;
   margin-left: 6px;
-  display: inline-block;
-}
-
-@media (max-width: 767px) {
+  display: block;
+  }
+  
+  @media (max-width: 767px) {
   /* line 37, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_about.scss */
-  .about_area .about_info .opening_hour span {
+.about_area .about_info .opening_hour span {
     margin-left: 0;
   }
 }
@@ -6158,3 +6158,12 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+.brand-name {
+  display: inline-block;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 1.2;
+  white-space: nowrap;
+}
