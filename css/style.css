@@ -2743,7 +2743,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_bradcam.scss */
 .breadcam_bg {
-  background-image: url(../img/banner/bradcam.png);
+  background-image: url(../img/banner/bradcam.jpeg);
 }
 
 /* line 4, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_bradcam.scss */
@@ -2759,7 +2759,7 @@ h3 {
 /* line 10, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_bradcam.scss */
 .bradcam_area {
   background-size: cover;
-  background-position: center center;
+  background-position: center 35%;
   padding: 187px 0 115px 0;
 }
 
